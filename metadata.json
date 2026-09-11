@@ -1,0 +1,6 @@
+{
+  "name": "Aktien & Investment Simulator",
+  "description": "Echtzeit-Simulation für Aktienhandel und Portfolio-Investitionen mit virtuellem Startkapital, interaktiven Kurscharts und detaillierten grafischen Auswertungen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
